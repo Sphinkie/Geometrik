@@ -2,7 +2,7 @@
 
 Geometric libraries for Ogre3D Engine, for easily and dynamically creating various spheric meshes.
 
-API description is provided in the [github pages](Sphinkie.github.io/Geometrik).
+API description is provided in the [github pages](http://sphinkie.github.io/Geometrik).
 
 ## Samples
 

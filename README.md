@@ -2,7 +2,7 @@
 
 Geometric libraries for Ogre3D Engine, for easily and dynamically creating various spheric meshes.
 
-ADPI description is provided in the [github pages](Sphinkie.github.io/Geometrik).
+API description is provided in the [github pages](Sphinkie.github.io/Geometrik).
 
 ## Samples
 
@@ -12,10 +12,10 @@ ADPI description is provided in the [github pages](Sphinkie.github.io/Geometrik)
 
 # Credits
 
-Initial creator of Geodesic : Richard J. Bono - GNU licence (1995-2002)
+Initial creator of Geodesic : Richard J. Bono - GNU licence (1995-2002)  
 Reference : http://mathforum.org/library/view/8321.html
 
-## licence
+## Licence
 
 	Copyright (C) 1995 - 2002 Richard J. Bono
 	This program is free software; you can redistribute it and/or modify

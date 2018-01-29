@@ -1,6 +1,8 @@
 # Geometrik
 
-Geometric libraries for Ogre3D Engine, for creating dynamically various spheric meshes.
+Geometric libraries for Ogre3D Engine, for easily and dynamically creating various spheric meshes.
+
+ADPI description is provided in the [github pages](Sphinkie.github.io/Geometrik).
 
 ## Samples
 

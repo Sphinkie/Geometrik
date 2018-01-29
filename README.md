@@ -6,7 +6,7 @@ API description is provided in the [github pages](http://sphinkie.github.io/Geom
 
 ## Samples
 
-![wireframe sphere](showcase/geometrik_sphere.jpg)
+![wireframe sphere](showcase/wireframe_sphere.jpg)
 **Geometrik**
 ![Textured sphere](showcase/textured_sphere.jpg)
 

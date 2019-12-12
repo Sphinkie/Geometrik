@@ -1,7 +1,8 @@
 # Geometrik
 
-Geometrik is a C++ library, for Ogre3D Engine, that allows you to create easily and dynamically various spheric 3D shapes (meshes).
-The **Geometrik** library is designed to work with the Ogre3D Game engine, but can be easily adapted to work with any other C++ environment.The library offers several classes to create dynamicaly geometric 3D-meshes (like cubes, spheres, ellipsoids...).
+**Geometrik** is a C++ library that allows you to create easily and dynamically various spheric 3D shapes (meshes).
+The **Geometrik** library is designed to work with the Ogre3D Game engine, but can be easily adapted to work with any other C++ environment.
+The library offers several classes to create dynamicaly geometric 3D-meshes (like cubes, spheres, ellipsoids...).
 
 The API description is provided in the [Dioxygen pages](https://sphinkie.github.io/Geometrik/html/index.html)
 (http://sphinkie.github.io/Geometrik).
@@ -26,7 +27,8 @@ It also refers to the C program of Richard J. Bono (http://mathforum.org/library
 ## Original Licence
 
 	Copyright (C) 1995 - 2002 Richard J. Bono
-	This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License.
+	This program is free software.
+	You can redistribute it and/or modify it under the terms of the GNU General Public License.
 	Please direct inquiries, comments and modifications to:
 	   Richard J. Bono
 	   44 Augusta Rd.

@@ -9,6 +9,11 @@ The API description is provided in the [doxygen pages](https://sphinkie.github.i
 ## Samples
 Here are some 3D objects that you can create with the library:
 
+**Wireframe Ellipse examples**
+
+![C1 type geoellipse](images/geometrik_geoellipse_c1.jpg)
+![C2 type geoellipse](images/geometrik_geoellipse_c2.jpg)
+
 **Example of wireframe**
 
 ![wireframe sphere](showcase/wireframe_sphere.jpg)

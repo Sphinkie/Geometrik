@@ -5,10 +5,13 @@ Geometrik is a C++ library, for Ogre3D Engine, that allows you to create easily 
 The API description is provided in the [github pages](http://sphinkie.github.io/Geometrik).
 
 ## Samples
-Here are some 3D objects that you can create with teh library:
+Here are some 3D objects that you can create with the library:
+
+**Example of wireframe**
 
 ![wireframe sphere](showcase/wireframe_sphere.jpg)
-**Geometrik**
+**Example of textured shape**
+
 ![Textured sphere](showcase/textured_sphere.jpg)
 
 # Credits

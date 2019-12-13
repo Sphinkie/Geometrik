@@ -4,7 +4,7 @@
 The **Geometrik** library is designed to work with the Ogre3D Game engine, but can be easily adapted to work with any other C++ environment.
 The library offers several classes to create dynamicaly geometric 3D-meshes (like cubes, spheres, ellipsoids...).
 
-The API description is provided in the [doxygen pages](https://sphinkie.github.io/Geometrik/html/index.html).
+The API description is provided in the [doxygen pages](https://sphinkie.github.io/Geometrik/index.html).
 
 ## Samples
 Here are some 3D objects that you can create with the library:

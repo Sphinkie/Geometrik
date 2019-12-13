@@ -11,19 +11,20 @@ Here are some 3D objects that you can create with the library:
 
 **Wireframe Ellipse examples**
 
-![C1 type geoellipse](images/geometrik_geoellipse_c1.jpg)
-![C2 type geoellipse](images/geometrik_geoellipse_c2.jpg)
+![C1 type geoellipse](docs/images/geometrik_geoellipse_c1.jpg)
+![C2 type geoellipse](docs/images/geometrik_geoellipse_c2.jpg)
 
 **Wireframe Sphere examples (with different complexity levels)**
 
-![wireframe sphere](images/wireframe_sphere.jpg)
-![C1 type geosphere](images/geometrik_geosphere_c1.jpg)
-			<img src="images/geometrik_geosphere_c2.jpg) alt="C2 type geosphere" align="middle" border="0">
-			<img src="images/geometrik_geosphere_c1-5.jpg) alt="Level 5 C1-geosphere" align="middle" border="0">
+![wireframe sphere](docs/images/wireframe_sphere.jpg)
+![C1 type geosphere](docs/images/geometrik_geosphere_c1.jpg)
+![C2 type geosphere](docs/images/geometrik_geosphere_c2.jpg)
+![Level5 C1 type geosphere](docs/images/geometrik_geosphere_c1-5.jpg)
 
 **Example of textured shape**
 
-![Textured sphere](images/textured_sphere.jpg)
+![Textured sphere](docs/images/textured_sphere.jpg)
+![Textured cube](docs/images/textured_cube.jpg)
 
 # Credits
 

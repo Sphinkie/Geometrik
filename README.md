@@ -1,6 +1,6 @@
 # Geometrik
 
-The **Geometrik Library** is a C++ library that allows you to create easily and dynamically various spheric 3D shapes (meshes).
+The **Geometrik Library** is a C++ library that allows you to create easily and dynamically various spheric 3D shapes (meshes).  
 The **Geometrik Library** is designed to work with the **Ogre3D** Game engine, but can be easily adapted to work with any other C++ environment.
 The library offers several classes to create dynamically geometric 3D-meshes (like cubes, spheres, ellipsoids...).
 

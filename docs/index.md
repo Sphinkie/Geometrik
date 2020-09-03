@@ -3,16 +3,11 @@
 ## Description
 
 When runing your Ogre-3D program, you may need a runtime-generated 3D object (*mesh*).
-For example, entering in a *solar system*, you may need to generate several spheres with différent diameters on-
-the-fly.
+For example, entering in a *solar system*, you may want to generate on-the-fly several spheres with différent diameters.
 
 ![Screenshot](images/geometrik_geosphere_c1-5.jpg)
 
 This is now possible with the **Geometrik Library**.
-
-![ogre3d](https://www.ogre3d.org/wp-content/uploads/2019/04/ogre_header.png)
-**Ogre-3D** (Object-Oriented Graphics Rendering Engine) is a multi-platform  open-source 3D engine. More information at  [ogre3d.org](https://www.ogre3d.org).
-
 
 ## Features
 
@@ -33,6 +28,8 @@ The [gallery](gallery) presents various meshes created with the **Geometrik Libr
 You can access the *doxygen* documentation [here](html/index.html) 
 with all [C++ classes](html/annotated.html) description.
  
+![ogre3d](https://www.ogre3d.org/wp-content/uploads/2019/04/ogre_header.png)  
+**Ogre-3D** (Object-Oriented Graphics Rendering Engine) is a multi-platform  open-source 3D engine. More information at  [ogre3d.org](https://www.ogre3d.org).
 
 ## About me
 

@@ -10,7 +10,6 @@ The API description is provided in the [Library home page](https://sphinkie.gith
 Here are some 3D objects that you can create with the library (without and with texture):
 
 ![Level5 C1 type geosphere](docs/images/geometrik_geosphere_c1-5.jpg)
-
 ![Textured sphere](docs/images/textured_sphere.jpg)
 
 ## Credits

@@ -1,4 +1,4 @@
-# Geometrik Libray for OGRE-3D
+# Geometrik Library for OGRE-3D
 
 ## Description
 
